@@ -1,0 +1,16 @@
+{
+    "pulse_pin_az" : 22,
+    "dir_pin_az" : 27,
+    "enable_pin_az" : 17,
+    "pulse_pin_el" : 16,
+    "dir_pin_el" : 20,
+    "enable_pin_el" : 21,
+    "steps_per_rotation_az" : 200,
+    "steps_per_rotation_el" : 200 ,
+    "gear_ratio_az": 50,
+    "gear_ratio_el": 50,
+    "reverse_az": false,
+    "reverse_el": true,
+    "api_tracking_seconds": 7200
+}
+

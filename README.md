@@ -22,7 +22,7 @@ communication.
 - GUI needs modified to use a dropdown for 'easy' satellites
 - Use threading on the motor controls to simultaneously track elevation and azimuth.
 - Downloading and storing Two Line Elements (TLE)
-- Using TLE Data to generate tracking data offline (Piorbital)
+- Using TLE Data to generate tracking data offline (Pyorbital)
 
 ## Contributors
 
